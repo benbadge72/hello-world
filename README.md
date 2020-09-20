@@ -2,7 +2,7 @@
 
 Welcome to a humble Git space.
 
-## About Me
+## About
 
 Middle aged gentleman living in rural West Virginia, USA. A humbled autodidactic polymath describes me. Not so much into computer programming or developing. It is a slight hobby at best, as is using GNU Linux over the last decade or so. At present I'm employeed as a stringer custodian for our local county school board. Wife and I still adopt furry critters as children.
 
